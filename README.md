@@ -16,8 +16,6 @@ Ammar Alavi
 171112292
 Mayank Verma
 171112260
-Franklin Toppo 
-171112209
  Under the Guidance of
 Mr. Bholanath Roy
 DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
