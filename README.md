@@ -70,8 +70,6 @@ Ammar Alavi
 171112292
 Mayank Verma
 171112260
-Franklin Toppo 
-171112209
 
 
 
